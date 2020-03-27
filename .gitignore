@@ -1,0 +1,17 @@
+.mymetadata
+.project
+dependency-reduced-pom.xml
+.settings
+build
+src/test
+.classpath
+META-INF
+target
+.tern-project
+*.class
+*.log
+WebRoot/WEB-INF/classes
+WebContent/WEB-INF/classes
+.apt_generated
+logs
+.factorypath

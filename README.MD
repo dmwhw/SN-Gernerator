@@ -1,0 +1,1 @@
+用于生成 UUID 或者短UUID或者 snowFlake的
